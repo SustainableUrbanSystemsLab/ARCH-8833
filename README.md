@@ -4,7 +4,6 @@ Data-driven Methods for Design and Sustainability
 
 ---
 
-# One pager
 
 ## Summary
 
@@ -21,9 +20,9 @@ Students will work on a hands-on project to analyze complex sustainability-relat
 
 Students should have intermediate to advanced digital skills and prior experience in environmental systems and computational design, as the course skips introductory workshops in favor of a more technical focus. Experience with `Python/C#` will be advantageous, but is not required. The teaching methodology will use existing and custom-built computational tools to emphasize evidence-based design, variant testing, and evaluation. The course fosters a collaborative learning environment, encouraging students to work with curiosity and rigor as they develop new tools and insights collectively.
 
-# Student Work
+## Student Work
 
-## Spring 2025
+### Spring 2025
 
 | Logo | Project Title | GitHub Handle(s) | LinkedIn | GitHub Repo | Description |
 |-----------------|---------------|------------------|----------|-------------|-------------|
@@ -66,7 +65,7 @@ Students should have intermediate to advanced digital skills and prior experienc
 [repo-mi]: https://github.com/SustainableUrbanSystemsLab/ARCH-8833-Sp25-UMCFvsENVImet
 
 
-## Spring 2024
+### Spring 2024
 
 [End of the Year Showcase Spring 2024](https://docs.google.com/presentation/d/1uE61tAisLvI9qhuCtqXEb0OJ5sR9ljYjdt6a3hoJJ7Q/edit?usp=sharing)  
 
