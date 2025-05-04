@@ -43,7 +43,7 @@ built computational tools. The course fosters a collaborative learning environme
 
 [logo-modular]: https://raw.githubusercontent.com/NTD3201/ARCH-8833-Sp25-Tran-Optimal-Modular-Construction-Post-Disaster-Housing/main/images/cover.png
 [logo-microclimate]: https://raw.githubusercontent.com/BenjaminHansyun/ARCH-8833-Sp25-Urban-Microclimate-Prediction-Hybrid-LSTM-Transformer-Kriging/main/images/demo_cover.png
-[logo-umcf]: https://raw.githubusercontent.com/SustainableUrbanSystemsLab/ARCH-8833-Sp25-UMCFvsENVImet/main/images/ENVI-met_vs_umcf.png
+[logo-umcf]: https://raw.githubusercontent.com/SustainableUrbanSystemsLab/ARCH-8833-Sp25-UMCFvsENVImet/main/figure.jpg
 
 [gh-jma]: https://github.com/jma1999
 [gh-sd]: https://github.com/sdebnath34
