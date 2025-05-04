@@ -22,56 +22,69 @@ Students should have intermediate to advanced digital skills and prior experienc
 
 ## Student Work
 
+<style>
+  table img {
+    width: 200px;
+    height: auto;
+  }
+</style>
+
 ### Spring 2025
 
-| Logo | Project Title | GitHub Handle(s) | LinkedIn | GitHub Repo | Description |
-|-----------------|---------------|------------------|----------|-------------|-------------|
-| ![Logo][logo-ifc] | **Text-to-IFC Playground** | [jma1999][gh-jma], [sdebnath34][gh-sd] | N/A | [repo][repo-jma] | Generates 3D BIM models in IFC format from plain-language instructions using an LLM, a lightweight mesh parser, and IfcOpenShell. |
-| ![Logo][logo-sa-hoursing] | **Environmental Adequacy in Modern South American Collective Housing** | [jalmeida32][gh-ja] | [João V. Navarrete de Almeida][li-ja] | [repo][repo-ja] | Simulation analyses evaluating environmental performance of a modern collective housing project in South America. |
-| ![Logo][logo-modular] | **Optimizing Modular Construction Design for Post-Disaster Housing** | [dnguyen458][gh-td] | [Tran Duong Nguyen][li-td] | [repo][repo-td] | Energy-efficient, resilient, and sustainable modular housing solutions for post-disaster contexts. |
-| ![Logo][logo-microclimate] | **Urban Microclimate Prediction (Hybrid LSTM–Transformer–Kriging)** | [hshih38][gh-hs], [tchangnawa3][gh-tc] | [Han-Syun Shih][li-hs], [Thanasarn Changnawa][li-tc] | [repo][repo-hs] | Combines LSTM/Transformer time-series forecasting with Kriging spatial interpolation to predict urban microclimates. |
-| ![Logo][logo-umcf] | **Assessing and Calibrating Simulation Parameters for the UMCF Plugin** | [mhassen9][gh-mi], [klayam3][gh-kl] | [Mohammed Ibrahim Hassen][li-mi], [Kiana-Karla Visarra Layam][li-kl] | [repo][repo-mi] | Compares and calibrates UMCF plugin simulation parameters against ENVI-met results for improved accuracy. |
-| ![Logo][logo-facades-dm] | **Facades DM Project** | [mhassen9][gh-mi], [klayam3][gh-kl] | [Mohammed Ibrahim Hassen][li-mi], [Kiana-Karla Visarra Layam][li-kl] | [repo][repo-mikl] | Description. |
+[End of the Year Showcase Spring 2025](https://docs.google.com/presentation/d/1eU39IR4Wj1v1cflKur6dte04wAnLXxDZgu13tPSUnOs/edit?usp=sharing)  
 
----
 
-[placeholder]: https://www.svgrepo.com/show/508699/landscape-placeholder.svg
-[logo-ifc]: https://cdn-icons-png.flaticon.com/512/10121/10121834.png
-[logo-sa-hoursing]: https://github.com/SustainableUrbanSystemsLab/ARCH-8833-Sp25-Environmental-adequacy-in-modern-South-American-collective-housing/raw/main/images/comparison.jpg
-[logo-modular]: https://raw.githubusercontent.com/SustainableUrbanSystemsLab/ARCH-8833-Sp25-Optimal-Modular-Construction-Post-Disaster-Housing/main/Logo.png
-[logo-microclimate]: https://github.com/SustainableUrbanSystemsLab/ARCH-8833-Sp25-Urban-Microclimate-Prediction-Hybrid-LSTM-Transformer-Kriging/raw/main/images/Diagram_1.jpg
-[logo-umcf]: https://raw.githubusercontent.com/SustainableUrbanSystemsLab/ARCH-8833-Sp25-UMCFvsENVImet/main/figure.jpg
+| Logo                                       | Project Title                                                           | GitHub Handle(s)                       | LinkedIn                                                             | GitHub Repo         | Description                                                                                                                       |
+| ------------------------------------------ | ----------------------------------------------------------------------- | -------------------------------------- | -------------------------------------------------------------------- | ------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| ![Text-to-IFC Playground][logo-ifc]        | **Text-to-IFC Playground**                                              | [jma1999][gh-jma], [sdebnath34][gh-sd] | [Joseph M. Aerathu][li-jma], [Sharmista Debnath][li-sd]              | [repo][repo-jma-sd] | Generates 3D BIM models in IFC format from plain‑language instructions using an LLM, a lightweight mesh parser, and IfcOpenShell. |
+| ![South American Housing][logo-sa-housing] | **Environmental Adequacy in Modern South American Collective Housing**  | [jalmeida32][gh-ja]                    | [João V. Navarrete de Almeida][li-ja]                                | [repo][repo-ja]     | Simulation analyses evaluating environmental performance of a modern collective housing project in South America.                 |
+| ![Modular Housing][logo-modular]           | **Optimizing Modular Construction Design for Post‑Disaster Housing**    | [dnguyen458][gh-td]                    | [Tran Duong Nguyen][li-td]                                           | [repo][repo-td]     | Energy‑efficient, resilient, and sustainable modular housing solutions for post‑disaster contexts.                                |
+| ![Microclimate][logo-microclimate]         | **Urban Microclimate Prediction (Hybrid LSTM–Transformer–Kriging)**     | [hshih38][gh-hs], [tchangnawa3][gh-tc] | [Han‑Syun Shih][li-hs], [Thanasarn Changnawa][li-tc]                 | [repo][repo-tc-hs]  | Combines LSTM/Transformer time‑series forecasting with Kriging spatial interpolation to predict urban microclimates.              |
+| ![UMCF vs ENVI-met][logo-umcf]             | **Assessing and Calibrating Simulation Parameters for the UMCF Plugin** | [alvarezdmarch][gh-ma]                 | [Marcelo Álvarez][li-ma]                                             | [repo][repo-ma]     | Compares and calibrates UMCF plugin simulation parameters against ENVI‑met results for improved accuracy.                         |
+| ![Facades DM][logo-facades-dm]             | **Facades DM Project**                                                  | [mhassen9][gh-mi], [klayam3][gh-kl]    | [Mohammed Ibrahim Hassen][li-mi], [Kiana‑Karla Visarra Layam][li-kl] | [repo][repo-mi-kl]  | Description.                                                                                                                      |
+
+[logo-ifc]:        https://raw.githubusercontent.com/SustainableUrbanSystemsLab/ARCH-8833-Sp25-LLM2IFC/refs/heads/main/Figures/Logo.png
+[logo-sa-housing]: https://raw.githubusercontent.com/SustainableUrbanSystemsLab/ARCH-8833-Sp25-Environmental-adequacy-in-modern-South-American-collective-housing/main/images/comparison.jpg
+[logo-modular]:    https://raw.githubusercontent.com/SustainableUrbanSystemsLab/ARCH-8833-Sp25-Optimal-Modular-Construction-Post-Disaster-Housing/main/Logo.png
+[logo-microclimate]: https://raw.githubusercontent.com/SustainableUrbanSystemsLab/ARCH-8833-Sp25-Urban-Microclimate-Prediction-Hybrid-LSTM-Transformer-Kriging/main/images/Diagram_1.jpg
+[logo-umcf]:       https://raw.githubusercontent.com/SustainableUrbanSystemsLab/ARCH-8833-Sp25-UMCFvsENVImet/main/figure.jpg
 [logo-facades-dm]: https://www.svgrepo.com/show/508699/landscape-placeholder.svg
+
 
 [gh-jma]: https://github.com/jma1999
 [gh-sd]: https://github.com/sdebnath34
-[gh-ja]: https://github.com/jalmeida32
-[gh-ma]: https://github.com/malvarez66
-[gh-td]: https://github.com/dnguyen458
+[gh-ja]: https://github.com/joaovnavarrete
+[gh-ma]: https://github.com/alvarezdmarch
+[gh-td]: https://github.com/NTD3201
 [gh-kl]: https://github.com/klayam3
-[gh-hs]: https://github.com/hshih38
+[gh-hs]: https://github.com/BenjaminHansyun
 [gh-tc]: https://github.com/tchangnawa3
 [gh-mi]: https://github.com/mhassen9
 
-[li-ja]: https://www.linkedin.com/in/jo%C3%A3o-v-navarrete-de-almeida-28646945
-[li-ma]: https://www.linkedin.com/in/marcelo-%C3%A1lvarez-a9253717a
-[li-td]: https://www.linkedin.com/in/tranduongnguyen
-[li-kl]: https://www.linkedin.com/in/kiana-karla-visarra-layam
-[li-hs]: https://www.linkedin.com/in/han-syun-shih-1717832b3
-[li-tc]: https://www.linkedin.com/in/thanasarn-changnawa
-[li-mi]: https://www.linkedin.com/in/mohammed-ibrahim-hassen
+[li-ja]: https://www.linkedin.com/in/jo%C3%A3o-v-navarrete-de-almeida-28646945/
+[li-sd]: https://www.linkedin.com/in/sharmista-debnath-3ba556227/
+[li-ma]: https://www.linkedin.com/in/marcelo-%C3%A1lvarez-a9253717a/
+[li-td]: https://www.linkedin.com/in/tranduongnguyen/
+[li-kl]: https://www.linkedin.com/in/kiana-karla-layam/
+[li-hs]: https://www.linkedin.com/in/han-syun-shih-1717832b3/
+[li-tc]: https://www.linkedin.com/in/thanasarn-changnawa-051a42202/
+[li-mi]: https://www.linkedin.com/in/mohammed-ibrahim-6188a5217/
 
-[repo-jma]: https://github.com/SustainableUrbanSystemsLab/ARCH-8833-Sp25-LLM2IFC
+[repo-jma-sd]: https://github.com/SustainableUrbanSystemsLab/ARCH-8833-Sp25-LLM2IFC
+[repo-mi-kl]: https://github.com/SustainableUrbanSystemsLab/ARCH-8833-Sp25-UMCFvsENVImet
+[repo-tc-hs]: https://github.com/SustainableUrbanSystemsLab/ARCH-8833-Sp25-Urban-Microclimate-Prediction-Hybrid-LSTM-Transformer-Kriging
 [repo-ja]: https://github.com/SustainableUrbanSystemsLab/ARCH-8833-Sp25-Environmental-adequacy-in-modern-South-American-collective-housing
 [repo-td]: https://github.com/SustainableUrbanSystemsLab/ARCH-8833-Sp25-Optimal-Modular-Construction-Post-Disaster-Housing
-[repo-hs]: https://github.com/SustainableUrbanSystemsLab/ARCH-8833-Sp25-Urban-Microclimate-Prediction-Hybrid-LSTM-Transformer-Kriging
-[repo-mi]: https://github.com/SustainableUrbanSystemsLab/ARCH-8833-Sp25-UMCFvsENVImet
-[repo-mikl]: https://github.com/SustainableUrbanSystemsLab/ARCH-8833-Sp25-UMCFvsENVImet
+[repo-ma]: https://github.com/SustainableUrbanSystemsLab/ARCH-8833-Sp25-UMCFvsENVImet
+
+
+---
 
 ### Spring 2024
 
 [End of the Year Showcase Spring 2024](https://docs.google.com/presentation/d/1uE61tAisLvI9qhuCtqXEb0OJ5sR9ljYjdt6a3hoJJ7Q/edit?usp=sharing)  
 
+---
 
 ## License
 
