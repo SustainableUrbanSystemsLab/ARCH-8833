@@ -11,10 +11,10 @@ This research elective is designed for students interested in deepening their un
 
 ## Deliverables
 
-Students will work on a hands-on project to analyze complex sustainability-related phenomena, such as energy consumption, mobility patterns, thermal comfort, daylighting, well-being, and quality of space. Students will develop an individual research question that they will answer with a data-driven approach, developed over the semester. The final deliverable are:
+Students will work on a hands-on project to analyze complex sustainability-related phenomena, such as energy consumption, mobility patterns, thermal comfort, daylighting, well-being, and quality of space. Students will develop an individual research question that they will answer with a data-driven approach, developed over the semester. The final deliverables are:
 
 1. An implementation of their approach (using Rhino, Grasshopper, C#, Python, JavaScript)
-2. A conference-ready manuscript/slide deck where processes, findings, and conclusions are documented.
+2. A conference-ready manuscript and slide deck where processes, findings, and conclusions are documented.
 
 ## Prerequisites
 
@@ -28,7 +28,7 @@ Students should have intermediate to advanced digital skills and prior experienc
 |-----------------|---------------|------------------|----------|-------------|-------------|
 | 🏗️ | **Text-to-IFC Playground** | [jma1999][gh-jma], [sdebnath34][gh-sd] | N/A | [repo][repo-jma] | Generates 3D BIM models in IFC format from plain-language instructions using an LLM, a lightweight mesh parser, and IfcOpenShell. |
 | ![Placeholder Logo][placeholder] | **Environmental Adequacy in Modern South American Collective Housing** | [jalmeida32][gh-ja], [malvarez66][gh-ma] | [João V. Navarrete de Almeida][li-ja], [Marcelo Álvarez][li-ma] | [repo][repo-ja] | Simulation analyses evaluating environmental performance of a modern collective housing project in South America. |
-| ![Logo][logo-modular] | **Optimizing Modular Construction Design for Post-Disaster Housing** | [dnguyen458][gh-td], [klayam3][gh-kl] | [Tran Duong Nguyen][li-td], [Kiana-Karla Visarra Layam][li-kl] | [repo][repo-td] | Energy-efficient, resilient, and sustainable modular housing solutions for post-disaster contexts. |
+| ![Logo][logo-modular] | **Optimizing Modular Construction Design for Post-Disaster Housing** | [dnguyen458][gh-td] | [Tran Duong Nguyen][li-td] | [repo][repo-td] | Energy-efficient, resilient, and sustainable modular housing solutions for post-disaster contexts. |
 | ![Logo][logo-microclimate] | **Urban Microclimate Prediction (Hybrid LSTM–Transformer–Kriging)** | [hshih38][gh-hs], [tchangnawa3][gh-tc] | [Han-Syun Shih][li-hs], [Thanasarn Changnawa][li-tc] | [repo][repo-hs] | Combines LSTM/Transformer time-series forecasting with Kriging spatial interpolation to predict urban microclimates. |
 | ![Logo][logo-umcf] | **Assessing and Calibrating Simulation Parameters for the UMCF Plugin** | [mhassen9][gh-mi], [klayam3][gh-kl] | [Mohammed Ibrahim Hassen][li-mi], [Kiana-Karla Visarra Layam][li-kl] | [repo][repo-mi] | Compares and calibrates UMCF plugin simulation parameters against ENVI-met results for improved accuracy. |
 
@@ -36,7 +36,7 @@ Students should have intermediate to advanced digital skills and prior experienc
 
 [placeholder]: https://www.svgrepo.com/show/508699/landscape-placeholder.svg
 
-[logo-modular]: https://raw.githubusercontent.com/NTD3201/ARCH-8833-Sp25-Tran-Optimal-Modular-Construction-Post-Disaster-Housing/main/images/cover.png
+[logo-modular]: https://raw.githubusercontent.com/SustainableUrbanSystemsLab/ARCH-8833-Sp25-Optimal-Modular-Construction-Post-Disaster-Housing/main/Logo.png
 [logo-microclimate]: https://raw.githubusercontent.com/BenjaminHansyun/ARCH-8833-Sp25-Urban-Microclimate-Prediction-Hybrid-LSTM-Transformer-Kriging/main/images/demo_cover.png
 [logo-umcf]: https://raw.githubusercontent.com/SustainableUrbanSystemsLab/ARCH-8833-Sp25-UMCFvsENVImet/main/figure.jpg
 
