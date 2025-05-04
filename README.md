@@ -1,10 +1,3 @@
-# ARCH-8833
-
-Data-driven Methods for Design and Sustainability
-
----
-
-
 ## Summary
 
 This research elective is designed for students interested in deepening their understanding of data-driven methods in architecture with an emphasis on sustainability. The course blends seminar and workshop formats, featuring input lectures from guest speakers in academia and industry. The topics range from environmental performance to augmented intelligence in design.
