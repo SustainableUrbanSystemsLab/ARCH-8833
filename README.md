@@ -7,7 +7,7 @@ This research elective is designed for students interested in deepening their un
 Students will work on a hands-on project to analyze complex sustainability-related phenomena, such as energy consumption, mobility patterns, thermal comfort, daylighting, well-being, and quality of space. Students will develop an individual research question that they will answer with a data-driven approach, developed over the semester. The final deliverables are:
 
 1. An implementation of their approach (using Rhino, Grasshopper, C#, Python, JavaScript)
-2. A conference-ready manuscript and slide deck where processes, findings, and conclusions are documented.
+2. A conference-ready manuscript and a slide deck documenting processes, findings, and conclusions.
 
 ## Prerequisites
 
