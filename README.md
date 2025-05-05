@@ -54,6 +54,7 @@ Students should have intermediate to advanced digital skills and prior experienc
 [gh-tc]: https://github.com/tchangnawa3
 [gh-mi]: https://github.com/mhassen9
 
+
 [li-ja]: https://www.linkedin.com/in/jo%C3%A3o-v-navarrete-de-almeida-28646945/
 [li-sd]: https://www.linkedin.com/in/sharmista-debnath-3ba556227/
 [li-ma]: https://www.linkedin.com/in/marcelo-%C3%A1lvarez-a9253717a/
@@ -62,6 +63,7 @@ Students should have intermediate to advanced digital skills and prior experienc
 [li-hs]: https://www.linkedin.com/in/han-syun-shih-1717832b3/
 [li-tc]: https://www.linkedin.com/in/thanasarn-changnawa-051a42202/
 [li-mi]: https://www.linkedin.com/in/mohammed-ibrahim-6188a5217/
+[li-jma]: https://www.linkedin.com/in/josephaerathu/
 
 [repo-jma-sd]: https://github.com/SustainableUrbanSystemsLab/ARCH-8833-Sp25-LLM2IFC
 [repo-mi-kl]: https://github.com/SustainableUrbanSystemsLab/ARCH-8833-Sp25-UMCFvsENVImet
