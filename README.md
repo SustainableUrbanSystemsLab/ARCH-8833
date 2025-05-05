@@ -34,7 +34,7 @@ Students should have intermediate to advanced digital skills and prior experienc
 | ![Modular Housing][logo-modular]           | **Optimizing Modular Construction Design for Post‑Disaster Housing**    | [dnguyen458][gh-td]                    | [Tran Duong Nguyen][li-td]                                           | [repo][repo-td]     | Energy‑efficient, resilient, and sustainable modular housing solutions for post‑disaster contexts.                                |
 | ![Microclimate][logo-microclimate]         | **Urban Microclimate Prediction (Hybrid LSTM–Transformer–Kriging)**     | [hshih38][gh-hs], [tchangnawa3][gh-tc] | [Han‑Syun Shih][li-hs], [Thanasarn Changnawa][li-tc]                 | [repo][repo-tc-hs]  | Combines LSTM/Transformer time‑series forecasting with Kriging spatial interpolation to predict urban microclimates.              |
 | ![UMCF vs ENVI-met][logo-umcf]             | **Assessing and Calibrating Simulation Parameters for the UMCF Plugin** | [alvarezdmarch][gh-ma]                 | [Marcelo Álvarez][li-ma]                                             | [repo][repo-ma]     | Compares and calibrates UMCF plugin simulation parameters against ENVI‑met results for improved accuracy.                         |
-| ![Facades DM][logo-facades-dm]             | **Facades DM Project**                                                  | [mhassen9][gh-mi], [klayam3][gh-kl]    | [Mohammed Ibrahim Hassen][li-mi], [Kiana‑Karla Visarra Layam][li-kl] | [repo][repo-mi-kl]  | Description.                                                                                                                      |
+| ![Facades DM][logo-facades-dm]             | **AHP Façade Ranking Tool**                                             | [mhassen9][gh-mi], [klayam3][gh-kl]    | [Mohammed Ibrahim Hassen][li-mi], [Kiana‑Karla Visarra Layam][li-kl] | [repo][repo-mi-kl]  | Rank façade design alternatives with interactive AHP logic using data from Google Sheets and visualize results with Streamlit.    |
 
 [logo-ifc]:        https://raw.githubusercontent.com/SustainableUrbanSystemsLab/ARCH-8833-Sp25-LLM2IFC/refs/heads/main/Figures/Logo.png
 [logo-sa-housing]: https://raw.githubusercontent.com/SustainableUrbanSystemsLab/ARCH-8833-Sp25-Environmental-adequacy-in-modern-South-American-collective-housing/main/images/comparison.jpg
@@ -66,11 +66,11 @@ Students should have intermediate to advanced digital skills and prior experienc
 [li-jma]: https://www.linkedin.com/in/josephaerathu/
 
 [repo-jma-sd]: https://github.com/SustainableUrbanSystemsLab/ARCH-8833-Sp25-LLM2IFC
-[repo-mi-kl]: https://github.com/SustainableUrbanSystemsLab/ARCH-8833-Sp25-UMCFvsENVImet
-[repo-tc-hs]: https://github.com/SustainableUrbanSystemsLab/ARCH-8833-Sp25-Urban-Microclimate-Prediction-Hybrid-LSTM-Transformer-Kriging
-[repo-ja]: https://github.com/SustainableUrbanSystemsLab/ARCH-8833-Sp25-Environmental-adequacy-in-modern-South-American-collective-housing
-[repo-td]: https://github.com/SustainableUrbanSystemsLab/ARCH-8833-Sp25-Optimal-Modular-Construction-Post-Disaster-Housing
-[repo-ma]: https://github.com/SustainableUrbanSystemsLab/ARCH-8833-Sp25-UMCFvsENVImet
+[repo-mi-kl]:  https://github.com/SustainableUrbanSystemsLab/ARCH-8833-Sp25-DST_Facade_Design
+[repo-tc-hs]:  https://github.com/SustainableUrbanSystemsLab/ARCH-8833-Sp25-Urban-Microclimate-Prediction-Hybrid-LSTM-Transformer-Kriging
+[repo-ja]:     https://github.com/SustainableUrbanSystemsLab/ARCH-8833-Sp25-Environmental-adequacy-in-modern-South-American-collective-housing
+[repo-td]:     https://github.com/SustainableUrbanSystemsLab/ARCH-8833-Sp25-Optimal-Modular-Construction-Post-Disaster-Housing
+[repo-ma]:     https://github.com/SustainableUrbanSystemsLab/ARCH-8833-Sp25-UMCFvsENVImet
 
 
 ---
