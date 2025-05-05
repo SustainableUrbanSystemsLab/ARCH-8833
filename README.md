@@ -15,14 +15,18 @@ Students should have intermediate to advanced digital skills and prior experienc
 
 ## Student Work
 
+
+
+<details markdown="1">
+<summary>Spring 2025</summary>
+
+
 <style>
   table img {
     width: 200px;
     height: auto;
   }
 </style>
-
-### Spring 2025
 
 [End of the Year Showcase Spring 2025](https://docs.google.com/presentation/d/1eU39IR4Wj1v1cflKur6dte04wAnLXxDZgu13tPSUnOs/edit?usp=sharing)  
 
@@ -41,7 +45,7 @@ Students should have intermediate to advanced digital skills and prior experienc
 [logo-modular]:    https://raw.githubusercontent.com/SustainableUrbanSystemsLab/ARCH-8833-Sp25-Optimal-Modular-Construction-Post-Disaster-Housing/main/Logo.png
 [logo-microclimate]: https://raw.githubusercontent.com/SustainableUrbanSystemsLab/ARCH-8833-Sp25-Urban-Microclimate-Prediction-Hybrid-LSTM-Transformer-Kriging/main/images/Diagram_1.jpg
 [logo-umcf]:       https://raw.githubusercontent.com/SustainableUrbanSystemsLab/ARCH-8833-Sp25-UMCFvsENVImet/main/figure.jpg
-[logo-facades-dm]: https://github.com/Muhammed-IB/DST_Facade_Design/blob/main/Logo.png
+[logo-facades-dm]: https://raw.githubusercontent.com/SustainableUrbanSystemsLab/ARCH-8833-Sp25-DST_Facade_Design/refs/heads/main/Logo.png
 
 
 [gh-jma]: https://github.com/jma1999
@@ -73,11 +77,24 @@ Students should have intermediate to advanced digital skills and prior experienc
 [repo-ma]:     https://github.com/SustainableUrbanSystemsLab/ARCH-8833-Sp25-UMCFvsENVImet
 
 
+</details>
+
 ---
 
-### Spring 2024
+<details markdown="1">
+<summary>Spring 2024</summary>
+
+
+<style>
+  table img {
+    width: 200px;
+    height: auto;
+  }
+</style>
 
 [End of the Year Showcase Spring 2024](https://docs.google.com/presentation/d/1uE61tAisLvI9qhuCtqXEb0OJ5sR9ljYjdt6a3hoJJ7Q/edit?usp=sharing)  
+
+</details>
 
 ---
 
